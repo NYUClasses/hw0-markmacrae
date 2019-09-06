@@ -17,10 +17,13 @@
 
 It should look something like this: 
 
+# My First Github Assignment
+
 1. Name:
-  * Arnon Lieber
-2. 
-  * 
-3. 
+  * **Mark MacRae**
+2. Favorite Podcast
+  * _I Hate it but I Love it_
+3. GitHub repo link 
+  * https://github.com/NYUClasses/hw0-markmacrae.git
 
 Once you are done, commit your changes, and push to GitHub. 
